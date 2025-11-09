@@ -12,11 +12,11 @@ CoralSight analyzes coral reef images to classify their health status into four 
 
 ##  Features
 
-- ✅ Fully offline processing (no internet required)
-- ✅ Pre-trained CNN model for accurate assessment
-- ✅ Data privacy - all processing on local machine
-- ✅ Simple and intuitive user interface
-- ✅ Instant results with confidence scores
+-  Fully offline processing (no internet required)
+-  Pre-trained CNN model for accurate assessment
+-  Data privacy - all processing on local machine
+-  Simple and intuitive user interface
+-  Instant results with confidence scores
 
 ##  Prerequisites
 
