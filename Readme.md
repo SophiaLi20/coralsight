@@ -2,7 +2,7 @@
 
 A desktop-based AI/ML solution for automated coral reef health assessment using Convolutional Neural Networks (CNN).
 
-## 🌊 About
+##  About
 
 CoralSight analyzes coral reef images to classify their health status into four categories:
 - **Healthy** - Vibrant, thriving coral
@@ -10,7 +10,7 @@ CoralSight analyzes coral reef images to classify their health status into four 
 - **Diseased** - Signs of infection
 - **Algae-Covered** - Excessive algae growth
 
-## 🚀 Features
+##  Features
 
 - ✅ Fully offline processing (no internet required)
 - ✅ Pre-trained CNN model for accurate assessment
@@ -18,12 +18,12 @@ CoralSight analyzes coral reef images to classify their health status into four 
 - ✅ Simple and intuitive user interface
 - ✅ Instant results with confidence scores
 
-## 📋 Prerequisites
+##  Prerequisites
 
 - Node.js (v16 or higher)
 - npm or yarn
 
-## 🛠️ Installation
+##  Installation
 
 1. Clone the repository:
 ```bash
@@ -43,14 +43,14 @@ npm run dev
 
 4. Open your browser and navigate to `http://localhost:5173`
 
-## 🏗️ Build for Production
+##  Build for Production
 ```bash
 npm run build
 ```
 
 The production files will be in the `dist` folder.
 
-## 🌐 Deployment
+##  Deployment
 
 ### GitHub Pages
 
@@ -64,7 +64,7 @@ The production files will be in the `dist` folder.
 2. Build command: `npm run build`
 3. Publish directory: `dist`
 
-## 📱 Project Structure
+##  Project Structure
 ```
 coralsight/
 ├── src/
@@ -78,7 +78,7 @@ coralsight/
 └── tailwind.config.js   # Tailwind CSS configuration
 ```
 
-## 🔮 Future Enhancements (Final Year)
+##  Future Enhancements (Final Year)
 
 - [ ] Backend API integration
 - [ ] Real CNN model implementation
@@ -87,11 +87,11 @@ coralsight/
 - [ ] Export functionality
 - [ ] Batch processing
 
-## 👥 Team
+##  Team
 
 Final Year Project - [Unnati Bhardwaj, Kshitij Srivastava]
 
-## 📄 License
+##  License
 
 This project is for educational purposes as part of a final year project.
 
