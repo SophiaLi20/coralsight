@@ -18,6 +18,8 @@ CoralSight analyzes coral reef images to classify their health status into four 
 -  Simple and intuitive user interface
 -  Instant results with confidence scores
 
+### The deployment link for the website have been done with the help of netlify and its link is - https://shiny-bunny-ba12ea.netlify.app/ 
+
 ##  Prerequisites
 
 - Node.js (v16 or higher)
